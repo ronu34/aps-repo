@@ -12,7 +12,7 @@
   }
 
   "nano": {
-    "version":"1.0.0",
+    "version":"9.0.0",
     "file": "packages/nano.aps",
     "sha256": "a2d112dc1889afe19d7a304bc3d929c0cd815bcf6909c0fe02914107c8302549"
   }
