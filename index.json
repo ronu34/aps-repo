@@ -10,4 +10,10 @@
     "file": "packages/libcore.aps",
     "sha256": "60756d84fe96b18eea2fe147403799c64e72b347ac6d23523ba9c216bca58c14"
   }
+
+  "nano": {
+    "version":"1.0.0",
+    "file": "packages/nano.aps",
+    "sha256": "a2d112dc1889afe19d7a304bc3d929c0cd815bcf6909c0fe02914107c8302549"
+  }
 }
