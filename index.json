@@ -16,4 +16,9 @@
     "file": "packages/nano.aps",
     "sha256": "a2d112dc1889afe19d7a304bc3d929c0cd815bcf6909c0fe02914107c8302549"
   }
+  "aps": {
+    "version": "0.1.0",
+    "file": "packages/aps.aps",
+    "sha256": "a62d14678efb6968bae10a7d4408f24a708fb2cd67cedd58b658918ef9942b9d"
+  }
 }
